@@ -32,7 +32,7 @@ html {
     /* font-family: "Roboto"; */
     font-size: 20px;
     font-weight: 700;
-    line-height: 24px;
+    /* line-height: 24px; */
     text-transform: uppercase;
     text-align: center;
     margin-top: 14px;
@@ -43,7 +43,7 @@ html {
     /* font-family: "Roboto - Black"; */
     font-size: 30px;
     font-weight: 900;
-    line-height: 24px;
+    /* line-height: 24px; */
     text-transform: uppercase;
     text-align: center;
     margin-top: 30px;
@@ -212,6 +212,7 @@ html {
     font-style: normal;
     text-align: left;
     color: #299CBD;
+    text-transform: uppercase;
 }
 
 .optimization_text {
